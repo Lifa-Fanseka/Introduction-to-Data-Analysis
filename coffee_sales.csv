@@ -1,0 +1,401 @@
+date,branch,product,category,quantity,unit_price,customer_rating
+2026-03-01,Airport,Croissant,Food,4,3.5,3.9
+2026-03-01,University,Latte,Coffee,4,4.0,2.9
+2026-03-01,University,Croissant,Food,4,3.5,3.2
+2026-03-01,Downtown,Muffin,Food,1,3.2,3.2
+2026-03-01,University,Chai Latte,Tea,2,4.2,2.6
+2026-03-01,University,Croissant,Food,2,3.5,2.7
+2026-03-01,University,Espresso,Coffee,2,2.5,3.6
+2026-03-01,Downtown,Espresso,Coffee,3,2.5,2.8
+2026-03-01,Airport,Sandwich,Food,2,6.5,3.4
+2026-03-01,Downtown,Muffin,Food,4,3.2,
+2026-03-01,Downtown,Espresso,Coffee,4,2.5,2.9
+2026-03-01,Downtown,Croissant,Food,3,3.5,4.7
+2026-03-01,University,Croissant,Food,2,3.5,2.5
+2026-03-01,University,Croissant,Food,2,3.5,3.8
+2026-03-01,University,Sandwich,Food,4,6.5,
+2026-03-02,Downtown,Croissant,Food,3,3.5,3.5
+2026-03-02,Airport,Muffin,Food,2,3.2,4.7
+2026-03-02,Downtown,Latte,Coffee,4,4.0,4.3
+2026-03-02,Airport,Latte,Coffee,3,4.0,3.0
+2026-03-02,Downtown,Green Tea,Tea,3,3.0,4.5
+2026-03-02,Downtown,Green Tea,Tea,3,3.0,3.7
+2026-03-02,Downtown,Cappuccino,Coffee,2,3.8,3.7
+2026-03-02,Downtown,Espresso,Coffee,3,2.5,4.4
+2026-03-02,Downtown,Muffin,Food,3,3.2,3.5
+2026-03-02,Downtown,Latte,Coffee,3,4.0,2.6
+2026-03-02,Airport,Espresso,Coffee,4,2.5,
+2026-03-02,Airport,Muffin,Food,4,3.2,3.4
+2026-03-02,Downtown,Chai Latte,Tea,3,4.2,3.9
+2026-03-02,University,Green Tea,Tea,2,3.0,3.3
+2026-03-02,Airport,Latte,Coffee,2,4.0,4.4
+2026-03-02,Downtown,Croissant,Food,1,3.5,3.4
+2026-03-03,Airport,Espresso,Coffee,4,2.5,2.7
+2026-03-03,Downtown,Sandwich,Food,2,6.5,4.5
+2026-03-03,Downtown,Chai Latte,Tea,4,4.2,3.4
+2026-03-03,Airport,Cappuccino,Coffee,1,3.8,4.1
+2026-03-03,University,Muffin,Food,4,3.2,4.1
+2026-03-03,Airport,Cappuccino,Coffee,1,3.8,
+2026-03-03,University,Cappuccino,Coffee,1,3.8,3.8
+2026-03-03,University,Muffin,Food,3,3.2,3.0
+2026-03-03,Airport,Muffin,Food,2,3.2,4.9
+2026-03-03,Downtown,Latte,Coffee,2,4.0,3.4
+2026-03-03,Airport,Espresso,Coffee,4,2.5,4.3
+2026-03-03,Downtown,Latte,Coffee,2,4.0,4.7
+2026-03-04,Airport,Cappuccino,Coffee,1,3.8,
+2026-03-04,Downtown,Espresso,Coffee,2,2.5,3.0
+2026-03-04,Downtown,Latte,Coffee,1,4.0,
+2026-03-04,University,Cappuccino,Coffee,2,3.8,3.0
+2026-03-04,University,Croissant,Food,2,3.5,4.8
+2026-03-04,Airport,Latte,Coffee,2,4.0,4.0
+2026-03-04,Downtown,Espresso,Coffee,4,2.5,3.7
+2026-03-04,Downtown,Croissant,Food,1,3.5,3.7
+2026-03-04,University,Sandwich,Food,2,6.5,3.5
+2026-03-04,University,Latte,Coffee,2,4.0,4.0
+2026-03-04,Downtown,Espresso,Coffee,3,2.5,3.9
+2026-03-04,Downtown,Green Tea,Tea,1,3.0,3.3
+2026-03-05,Downtown,Croissant,Food,4,3.5,3.4
+2026-03-05,Downtown,Latte,Coffee,3,4.0,4.2
+2026-03-05,Airport,Cappuccino,Coffee,2,3.8,5.0
+2026-03-05,Airport,Cappuccino,Coffee,4,3.8,3.6
+2026-03-05,University,Latte,Coffee,1,4.0,3.0
+2026-03-05,Downtown,Espresso,Coffee,1,2.5,4.9
+2026-03-05,Airport,Espresso,Coffee,3,2.5,4.1
+2026-03-05,Downtown,Cappuccino,Coffee,4,3.8,3.4
+2026-03-05,University,Cappuccino,Coffee,3,3.8,4.5
+2026-03-05,Downtown,Muffin,Food,3,3.2,3.0
+2026-03-05,Airport,Espresso,Coffee,2,2.5,
+2026-03-05,Downtown,Cappuccino,Coffee,1,3.8,4.0
+2026-03-05,Downtown,Latte,Coffee,2,4.0,4.0
+2026-03-05,University,Espresso,Coffee,4,2.5,
+2026-03-05,University,Muffin,Food,3,3.2,4.7
+2026-03-05,University,Sandwich,Food,4,6.5,3.9
+2026-03-06,University,Latte,Coffee,2,4.0,4.6
+2026-03-06,Airport,Cappuccino,Coffee,1,3.8,3.8
+2026-03-06,Downtown,Cappuccino,Coffee,1,3.8,
+2026-03-06,Airport,Cappuccino,Coffee,1,3.8,4.0
+2026-03-06,University,Latte,Coffee,1,4.0,4.2
+2026-03-06,University,Cappuccino,Coffee,3,3.8,3.3
+2026-03-06,Airport,Latte,Coffee,3,4.0,4.8
+2026-03-06,University,Latte,Coffee,2,4.0,3.8
+2026-03-06,Downtown,Cappuccino,Coffee,1,3.8,5.0
+2026-03-06,University,Latte,Coffee,3,4.0,4.1
+2026-03-06,University,Green Tea,Tea,3,3.0,4.9
+2026-03-07,Downtown,Green Tea,Tea,3,3.0,4.1
+2026-03-07,University,Cappuccino,Coffee,1,3.8,3.6
+2026-03-07,Downtown,Espresso,Coffee,2,2.5,2.8
+2026-03-07,University,Latte,Coffee,1,4.0,4.7
+2026-03-07,Airport,Cappuccino,Coffee,3,3.8,3.5
+2026-03-07,Downtown,Latte,Coffee,1,4.0,4.4
+2026-03-07,Downtown,Espresso,Coffee,2,2.5,3.0
+2026-03-07,Downtown,Espresso,Coffee,4,2.5,2.6
+2026-03-07,University,Espresso,Coffee,4,2.5,2.7
+2026-03-08,Downtown,Green Tea,Tea,3,3.0,4.8
+2026-03-08,Airport,Cappuccino,Coffee,3,3.8,4.4
+2026-03-08,University,Cappuccino,Coffee,3,3.8,4.4
+2026-03-08,University,Latte,Coffee,3,4.0,4.6
+2026-03-08,Downtown,Chai Latte,Tea,4,4.2,4.0
+2026-03-08,University,Croissant,Food,3,3.5,3.0
+2026-03-08,University,Croissant,Food,2,3.5,4.8
+2026-03-08,Downtown,Espresso,Coffee,3,2.5,
+2026-03-08,University,Cappuccino,Coffee,1,3.8,3.0
+2026-03-08,University,Muffin,Food,1,3.2,4.0
+2026-03-08,Downtown,Green Tea,Tea,3,3.0,3.8
+2026-03-08,Airport,Latte,Coffee,2,4.0,
+2026-03-08,Airport,Cappuccino,Coffee,3,3.8,
+2026-03-09,University,Espresso,Coffee,4,2.5,2.8
+2026-03-09,University,Croissant,Food,3,3.5,2.8
+2026-03-09,Airport,Cappuccino,Coffee,1,3.8,3.9
+2026-03-09,University,Espresso,Coffee,1,2.5,2.6
+2026-03-09,Airport,Latte,Coffee,4,4.0,5.0
+2026-03-09,Downtown,Green Tea,Tea,4,3.0,2.7
+2026-03-09,Downtown,Chai Latte,Tea,3,4.2,4.6
+2026-03-09,University,Cappuccino,Coffee,2,3.8,4.7
+2026-03-09,Airport,Latte,Coffee,2,4.0,
+2026-03-09,University,Sandwich,Food,4,6.5,3.5
+2026-03-10,Airport,Green Tea,Tea,4,3.0,3.4
+2026-03-10,Downtown,Espresso,Coffee,3,2.5,3.9
+2026-03-10,Downtown,Sandwich,Food,2,6.5,
+2026-03-10,University,Cappuccino,Coffee,2,3.8,
+2026-03-10,University,Muffin,Food,4,3.2,
+2026-03-10,Airport,Green Tea,Tea,1,3.0,2.9
+2026-03-10,Downtown,Croissant,Food,4,3.5,2.8
+2026-03-10,Airport,Muffin,Food,4,3.2,4.5
+2026-03-10,Airport,Croissant,Food,1,3.5,4.9
+2026-03-10,Downtown,Latte,Coffee,1,4.0,2.7
+2026-03-10,University,Sandwich,Food,4,6.5,4.5
+2026-03-10,University,Latte,Coffee,1,4.0,4.4
+2026-03-10,University,Cappuccino,Coffee,1,3.8,
+2026-03-10,Downtown,Espresso,Coffee,2,2.5,3.3
+2026-03-11,Airport,Green Tea,Tea,1,3.0,4.7
+2026-03-11,Downtown,Muffin,Food,2,3.2,4.8
+2026-03-11,Downtown,Croissant,Food,3,3.5,3.7
+2026-03-11,University,Muffin,Food,2,3.2,3.1
+2026-03-11,University,Sandwich,Food,3,6.5,4.1
+2026-03-11,Downtown,Espresso,Coffee,1,2.5,4.3
+2026-03-11,University,Sandwich,Food,3,6.5,3.6
+2026-03-11,Airport,Espresso,Coffee,4,2.5,3.1
+2026-03-11,Downtown,Espresso,Coffee,4,2.5,
+2026-03-12,Downtown,Cappuccino,Coffee,1,3.8,2.7
+2026-03-12,University,Espresso,Coffee,2,2.5,3.9
+2026-03-12,Downtown,Sandwich,Food,3,6.5,4.0
+2026-03-12,Downtown,Sandwich,Food,4,6.5,4.8
+2026-03-12,Airport,Cappuccino,Coffee,3,3.8,
+2026-03-12,Airport,Green Tea,Tea,3,3.0,2.8
+2026-03-12,Downtown,Croissant,Food,4,3.5,4.4
+2026-03-12,Downtown,Espresso,Coffee,2,2.5,2.6
+2026-03-12,University,Latte,Coffee,4,4.0,3.9
+2026-03-13,Downtown,Cappuccino,Coffee,4,3.8,
+2026-03-13,Downtown,Croissant,Food,1,3.5,3.3
+2026-03-13,Airport,Chai Latte,Tea,2,4.2,3.0
+2026-03-13,Downtown,Chai Latte,Tea,1,4.2,2.5
+2026-03-13,Downtown,Latte,Coffee,1,4.0,3.9
+2026-03-13,Airport,Cappuccino,Coffee,3,3.8,4.9
+2026-03-13,Downtown,Espresso,Coffee,3,2.5,
+2026-03-13,University,Cappuccino,Coffee,4,3.8,
+2026-03-13,Downtown,Muffin,Food,1,3.2,3.4
+2026-03-13,Airport,Croissant,Food,2,3.5,
+2026-03-13,University,Espresso,Coffee,4,2.5,3.2
+2026-03-13,Airport,Latte,Coffee,2,4.0,
+2026-03-13,Airport,Sandwich,Food,2,6.5,3.7
+2026-03-13,Downtown,Latte,Coffee,2,4.0,3.8
+2026-03-13,Airport,Espresso,Coffee,1,2.5,3.2
+2026-03-13,University,Espresso,Coffee,1,2.5,4.2
+2026-03-14,Downtown,Espresso,Coffee,2,2.5,4.8
+2026-03-14,Downtown,Sandwich,Food,1,6.5,2.6
+2026-03-14,Downtown,Green Tea,Tea,3,3.0,3.3
+2026-03-14,Downtown,Green Tea,Tea,2,3.0,4.9
+2026-03-14,Downtown,Espresso,Coffee,2,2.5,3.7
+2026-03-14,University,Croissant,Food,4,3.5,3.1
+2026-03-14,Downtown,Espresso,Coffee,1,2.5,4.9
+2026-03-14,Airport,Chai Latte,Tea,4,4.2,4.2
+2026-03-14,Downtown,Croissant,Food,2,3.5,
+2026-03-14,Airport,Cappuccino,Coffee,2,3.8,3.2
+2026-03-14,Downtown,Latte,Coffee,1,4.0,
+2026-03-14,Airport,Green Tea,Tea,3,3.0,3.3
+2026-03-14,University,Espresso,Coffee,2,2.5,
+2026-03-14,Downtown,Espresso,Coffee,3,2.5,2.5
+2026-03-15,Downtown,Green Tea,Tea,3,3.0,
+2026-03-15,Downtown,Croissant,Food,2,3.5,
+2026-03-15,Downtown,Croissant,Food,3,3.5,4.7
+2026-03-15,Downtown,Sandwich,Food,1,6.5,4.2
+2026-03-15,Downtown,Latte,Coffee,1,4.0,3.0
+2026-03-15,Downtown,Latte,Coffee,1,4.0,4.9
+2026-03-15,Airport,Latte,Coffee,4,4.0,3.5
+2026-03-15,University,Muffin,Food,4,3.2,4.5
+2026-03-15,Airport,Croissant,Food,2,3.5,4.2
+2026-03-15,Downtown,Croissant,Food,4,3.5,4.6
+2026-03-15,Downtown,Espresso,Coffee,1,2.5,4.9
+2026-03-15,University,Chai Latte,Tea,1,4.2,3.8
+2026-03-16,Airport,Espresso,Coffee,3,2.5,4.8
+2026-03-16,Downtown,Espresso,Coffee,4,2.5,4.0
+2026-03-16,Downtown,Sandwich,Food,2,6.5,
+2026-03-16,University,Cappuccino,Coffee,1,3.8,4.7
+2026-03-16,Downtown,Espresso,Coffee,4,2.5,3.6
+2026-03-16,Airport,Muffin,Food,4,3.2,
+2026-03-16,University,Latte,Coffee,1,4.0,3.2
+2026-03-16,Downtown,Chai Latte,Tea,3,4.2,4.5
+2026-03-16,Downtown,Chai Latte,Tea,4,4.2,2.7
+2026-03-16,Airport,Espresso,Coffee,4,2.5,3.9
+2026-03-16,University,Latte,Coffee,1,4.0,3.5
+2026-03-16,Downtown,Espresso,Coffee,2,2.5,3.4
+2026-03-16,University,Sandwich,Food,2,6.5,4.6
+2026-03-16,University,Latte,Coffee,4,4.0,2.7
+2026-03-16,Downtown,Latte,Coffee,2,4.0,3.3
+2026-03-17,Downtown,Latte,Coffee,2,4.0,3.4
+2026-03-17,University,Muffin,Food,2,3.2,3.1
+2026-03-17,Downtown,Green Tea,Tea,2,3.0,
+2026-03-17,Downtown,Muffin,Food,1,3.2,3.6
+2026-03-17,University,Chai Latte,Tea,4,4.2,4.5
+2026-03-17,University,Croissant,Food,2,3.5,4.0
+2026-03-17,Airport,Cappuccino,Coffee,3,3.8,3.8
+2026-03-17,University,Latte,Coffee,2,4.0,3.0
+2026-03-17,Downtown,Cappuccino,Coffee,4,3.8,3.9
+2026-03-17,Downtown,Croissant,Food,1,3.5,2.8
+2026-03-17,Airport,Croissant,Food,4,3.5,3.9
+2026-03-17,Downtown,Espresso,Coffee,3,2.5,4.4
+2026-03-17,Downtown,Espresso,Coffee,3,2.5,4.6
+2026-03-17,Downtown,Espresso,Coffee,1,2.5,4.8
+2026-03-17,University,Cappuccino,Coffee,1,3.8,4.3
+2026-03-17,Downtown,Green Tea,Tea,2,3.0,3.8
+2026-03-17,University,Espresso,Coffee,2,2.5,4.6
+2026-03-17,Downtown,Green Tea,Tea,2,3.0,4.7
+2026-03-18,Airport,Latte,Coffee,4,4.0,3.1
+2026-03-18,University,Chai Latte,Tea,2,4.2,4.4
+2026-03-18,Downtown,Muffin,Food,2,3.2,4.7
+2026-03-18,University,Croissant,Food,2,3.5,3.6
+2026-03-18,Downtown,Latte,Coffee,2,4.0,4.6
+2026-03-18,Downtown,Chai Latte,Tea,4,4.2,3.7
+2026-03-18,Downtown,Espresso,Coffee,4,2.5,3.2
+2026-03-18,Airport,Green Tea,Tea,2,3.0,2.9
+2026-03-18,Airport,Chai Latte,Tea,1,4.2,2.9
+2026-03-18,University,Cappuccino,Coffee,1,3.8,4.9
+2026-03-19,Downtown,Chai Latte,Tea,2,4.2,2.6
+2026-03-19,Airport,Cappuccino,Coffee,1,3.8,3.8
+2026-03-19,University,Cappuccino,Coffee,2,3.8,4.4
+2026-03-19,Airport,Muffin,Food,3,3.2,5.0
+2026-03-19,Downtown,Espresso,Coffee,3,2.5,
+2026-03-19,Downtown,Chai Latte,Tea,2,4.2,4.9
+2026-03-19,University,Green Tea,Tea,1,3.0,4.7
+2026-03-19,Downtown,Latte,Coffee,4,4.0,3.8
+2026-03-19,Downtown,Sandwich,Food,2,6.5,3.0
+2026-03-19,Downtown,Muffin,Food,4,3.2,
+2026-03-19,University,Croissant,Food,3,3.5,4.9
+2026-03-19,Airport,Chai Latte,Tea,4,4.2,3.4
+2026-03-19,University,Espresso,Coffee,3,2.5,2.6
+2026-03-19,Downtown,Sandwich,Food,3,6.5,3.6
+2026-03-20,University,Green Tea,Tea,3,3.0,4.6
+2026-03-20,University,Espresso,Coffee,3,2.5,2.7
+2026-03-20,University,Espresso,Coffee,3,2.5,3.1
+2026-03-20,Downtown,Muffin,Food,1,3.2,3.5
+2026-03-20,Downtown,Croissant,Food,1,3.5,4.0
+2026-03-20,University,Cappuccino,Coffee,1,3.8,3.7
+2026-03-20,University,Cappuccino,Coffee,2,3.8,2.8
+2026-03-20,Downtown,Cappuccino,Coffee,3,3.8,3.2
+2026-03-20,Downtown,Croissant,Food,1,3.5,3.5
+2026-03-20,Downtown,Latte,Coffee,4,4.0,3.9
+2026-03-20,Downtown,Cappuccino,Coffee,3,3.8,4.2
+2026-03-20,University,Chai Latte,Tea,3,4.2,3.7
+2026-03-20,Downtown,Espresso,Coffee,4,2.5,2.9
+2026-03-20,University,Latte,Coffee,2,4.0,4.3
+2026-03-20,Downtown,Espresso,Coffee,4,2.5,3.2
+2026-03-20,University,Croissant,Food,1,3.5,2.9
+2026-03-21,Airport,Espresso,Coffee,2,2.5,3.8
+2026-03-21,Downtown,Cappuccino,Coffee,4,3.8,4.7
+2026-03-21,Downtown,Sandwich,Food,3,6.5,4.2
+2026-03-21,Airport,Latte,Coffee,3,4.0,3.0
+2026-03-21,Airport,Latte,Coffee,3,4.0,5.0
+2026-03-21,University,Espresso,Coffee,2,2.5,4.8
+2026-03-21,Airport,Sandwich,Food,3,6.5,4.1
+2026-03-21,Downtown,Chai Latte,Tea,2,4.2,2.6
+2026-03-21,Downtown,Latte,Coffee,4,4.0,2.8
+2026-03-21,University,Latte,Coffee,1,4.0,3.2
+2026-03-21,Downtown,Latte,Coffee,1,4.0,4.1
+2026-03-21,Downtown,Latte,Coffee,2,4.0,4.9
+2026-03-21,University,Sandwich,Food,4,6.5,3.3
+2026-03-22,Downtown,Cappuccino,Coffee,3,3.8,2.8
+2026-03-22,University,Sandwich,Food,1,6.5,2.6
+2026-03-22,Downtown,Chai Latte,Tea,1,4.2,
+2026-03-22,Airport,Espresso,Coffee,3,2.5,2.8
+2026-03-22,Airport,Croissant,Food,2,3.5,4.8
+2026-03-22,University,Green Tea,Tea,3,3.0,4.5
+2026-03-22,University,Chai Latte,Tea,1,4.2,3.9
+2026-03-22,Downtown,Muffin,Food,4,3.2,3.7
+2026-03-22,Airport,Espresso,Coffee,3,2.5,3.3
+2026-03-22,University,Green Tea,Tea,1,3.0,
+2026-03-22,University,Cappuccino,Coffee,3,3.8,3.7
+2026-03-22,Downtown,Green Tea,Tea,3,3.0,3.0
+2026-03-22,University,Sandwich,Food,4,6.5,3.9
+2026-03-22,Downtown,Sandwich,Food,1,6.5,3.1
+2026-03-22,University,Croissant,Food,4,3.5,3.5
+2026-03-23,Downtown,Muffin,Food,1,3.2,2.7
+2026-03-23,University,Chai Latte,Tea,2,4.2,4.1
+2026-03-23,Downtown,Espresso,Coffee,3,2.5,
+2026-03-23,Airport,Espresso,Coffee,1,2.5,4.7
+2026-03-23,Downtown,Latte,Coffee,1,4.0,3.6
+2026-03-23,University,Espresso,Coffee,2,2.5,4.5
+2026-03-23,Downtown,Latte,Coffee,4,4.0,2.9
+2026-03-23,Downtown,Muffin,Food,4,3.2,2.6
+2026-03-23,University,Espresso,Coffee,4,2.5,2.6
+2026-03-23,Airport,Sandwich,Food,4,6.5,3.0
+2026-03-24,Downtown,Croissant,Food,3,3.5,4.9
+2026-03-24,University,Espresso,Coffee,1,2.5,
+2026-03-24,University,Espresso,Coffee,1,2.5,4.5
+2026-03-24,Airport,Chai Latte,Tea,2,4.2,2.8
+2026-03-24,University,Sandwich,Food,4,6.5,4.3
+2026-03-24,Downtown,Muffin,Food,1,3.2,4.1
+2026-03-24,University,Espresso,Coffee,2,2.5,2.8
+2026-03-24,University,Espresso,Coffee,3,2.5,3.6
+2026-03-24,University,Cappuccino,Coffee,2,3.8,3.5
+2026-03-24,Airport,Croissant,Food,4,3.5,4.9
+2026-03-24,University,Latte,Coffee,4,4.0,4.4
+2026-03-24,University,Latte,Coffee,1,4.0,
+2026-03-24,Downtown,Croissant,Food,2,3.5,4.1
+2026-03-25,Downtown,Latte,Coffee,4,4.0,
+2026-03-25,University,Espresso,Coffee,2,2.5,2.8
+2026-03-25,Downtown,Espresso,Coffee,2,2.5,5.0
+2026-03-25,Downtown,Cappuccino,Coffee,3,3.8,3.2
+2026-03-25,University,Muffin,Food,1,3.2,2.6
+2026-03-25,Downtown,Chai Latte,Tea,2,4.2,3.9
+2026-03-25,University,Cappuccino,Coffee,2,3.8,4.5
+2026-03-25,Downtown,Green Tea,Tea,4,3.0,4.9
+2026-03-25,Airport,Latte,Coffee,3,4.0,2.6
+2026-03-25,Airport,Espresso,Coffee,3,2.5,4.7
+2026-03-25,Downtown,Croissant,Food,3,3.5,2.6
+2026-03-25,Downtown,Espresso,Coffee,4,2.5,5.0
+2026-03-26,University,Green Tea,Tea,3,3.0,2.9
+2026-03-26,University,Croissant,Food,2,3.5,3.6
+2026-03-26,University,Croissant,Food,2,3.5,4.5
+2026-03-26,University,Latte,Coffee,2,4.0,3.4
+2026-03-26,University,Latte,Coffee,2,4.0,
+2026-03-26,Airport,Espresso,Coffee,4,2.5,4.9
+2026-03-26,Airport,Chai Latte,Tea,4,4.2,4.7
+2026-03-26,Airport,Sandwich,Food,3,6.5,3.7
+2026-03-26,Downtown,Muffin,Food,1,3.2,4.6
+2026-03-26,Airport,Espresso,Coffee,3,2.5,3.0
+2026-03-26,University,Latte,Coffee,4,4.0,4.9
+2026-03-26,Airport,Espresso,Coffee,1,2.5,4.8
+2026-03-27,Downtown,Muffin,Food,1,3.2,4.1
+2026-03-27,Airport,Espresso,Coffee,1,2.5,
+2026-03-27,Downtown,Chai Latte,Tea,3,4.2,3.9
+2026-03-27,Downtown,Chai Latte,Tea,1,4.2,3.6
+2026-03-27,Airport,Muffin,Food,2,3.2,3.5
+2026-03-27,Downtown,Sandwich,Food,3,6.5,4.3
+2026-03-27,Downtown,Latte,Coffee,2,4.0,4.0
+2026-03-27,Downtown,Chai Latte,Tea,4,4.2,
+2026-03-27,Downtown,Croissant,Food,2,3.5,3.4
+2026-03-27,University,Croissant,Food,3,3.5,2.6
+2026-03-27,Downtown,Cappuccino,Coffee,4,3.8,3.0
+2026-03-27,Downtown,Espresso,Coffee,4,2.5,4.7
+2026-03-27,Airport,Croissant,Food,1,3.5,3.7
+2026-03-27,Downtown,Cappuccino,Coffee,1,3.8,
+2026-03-27,Airport,Espresso,Coffee,3,2.5,4.8
+2026-03-27,Downtown,Espresso,Coffee,3,2.5,3.2
+2026-03-27,Downtown,Cappuccino,Coffee,4,3.8,2.6
+2026-03-27,Downtown,Croissant,Food,2,3.5,4.6
+2026-03-27,Downtown,Green Tea,Tea,3,3.0,2.9
+2026-03-28,Airport,Green Tea,Tea,4,3.0,3.7
+2026-03-28,Airport,Muffin,Food,2,3.2,4.6
+2026-03-28,University,Cappuccino,Coffee,1,3.8,3.0
+2026-03-28,University,Muffin,Food,1,3.2,3.1
+2026-03-28,Airport,Espresso,Coffee,2,2.5,3.3
+2026-03-28,Downtown,Espresso,Coffee,4,2.5,3.7
+2026-03-28,Downtown,Espresso,Coffee,2,2.5,4.6
+2026-03-29,Downtown,Latte,Coffee,4,4.0,3.0
+2026-03-29,University,Muffin,Food,2,3.2,3.3
+2026-03-29,Downtown,Green Tea,Tea,2,3.0,
+2026-03-29,Downtown,Croissant,Food,3,3.5,3.4
+2026-03-29,Downtown,Croissant,Food,3,3.5,3.4
+2026-03-29,University,Chai Latte,Tea,2,4.2,4.3
+2026-03-29,Downtown,Cappuccino,Coffee,3,3.8,3.4
+2026-03-29,Downtown,Chai Latte,Tea,1,4.2,3.6
+2026-03-29,University,Cappuccino,Coffee,3,3.8,3.5
+2026-03-29,Downtown,Sandwich,Food,1,6.5,3.7
+2026-03-29,Downtown,Espresso,Coffee,4,2.5,3.6
+2026-03-29,University,Chai Latte,Tea,2,4.2,2.8
+2026-03-29,University,Muffin,Food,4,3.2,3.7
+2026-03-29,University,Latte,Coffee,3,4.0,3.6
+2026-03-29,Downtown,Latte,Coffee,4,4.0,
+2026-03-30,University,Latte,Coffee,2,4.0,4.0
+2026-03-30,University,Latte,Coffee,3,4.0,4.9
+2026-03-30,Airport,Espresso,Coffee,3,2.5,4.6
+2026-03-30,Airport,Croissant,Food,2,3.5,2.8
+2026-03-30,University,Green Tea,Tea,4,3.0,3.7
+2026-03-30,University,Cappuccino,Coffee,4,3.8,3.5
+2026-03-30,Downtown,Cappuccino,Coffee,2,3.8,4.7
+2026-03-30,Downtown,Latte,Coffee,2,4.0,3.0
+2026-03-30,University,Latte,Coffee,3,4.0,3.9
+2026-03-31,Downtown,Latte,Coffee,2,4.0,
+2026-03-31,Downtown,Latte,Coffee,4,4.0,3.7
+2026-03-31,Downtown,Croissant,Food,4,3.5,4.2
+2026-03-31,University,Green Tea,Tea,4,3.0,2.5
+2026-03-31,Downtown,Cappuccino,Coffee,3,3.8,3.5
+2026-03-31,Downtown,Chai Latte,Tea,2,4.2,2.7
+2026-03-31,Downtown,Latte,Coffee,1,4.0,2.7
+2026-03-31,Downtown,Latte,Coffee,1,4.0,3.6
+2026-03-31,Airport,Latte,Coffee,1,4.0,3.7
+2026-03-31,Airport,Latte,Coffee,2,4.0,
+2026-03-31,Airport,Croissant,Food,3,3.5,2.7
+2026-03-31,Downtown,Latte,Coffee,1,4.0,2.8
+2026-03-31,Downtown,Chai Latte,Tea,4,4.2,2.6
+2026-03-31,Downtown,Latte,Coffee,1,4.0,3.3
